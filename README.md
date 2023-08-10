@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/shubham32674954" target="blank"><img src="https://img.shields.io/twitter/follow/shubham32674954?logo=twitter&style=for-the-badge" alt="shubham32674954" /></a> </p>
 
-- 🔭 I’m currently working on **Campus-connect**
+- 🔭 I’m currently working on [Campus-connect](https://github.com/RizzlingDev-s/Campus-Connect)
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
-- 💬 Ask me about **React,C++**
+- 💬 Ask me about **ReactJS, Machine Learning and C++**
 
 - 📫 How to reach me **shubht3303@gmail.com**
 
-- ⚡ Fun fact **I think i can make it work somehow in the given time...**
+- ⚡ Fun fact **I think I can make it work somehow in the given time...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
