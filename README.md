@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/shubham32674954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham32674954" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shubham-tiwari-b686b3270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-tiwari-b686b3270" height="30" width="40" /></a>
-<a href="[https://fb.com/shubham tiwari](https://www.facebook.com/profile.php?id=100013818166978)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shubham tiwari" height="30" width="40" /></a>
 <a href="https://instagram.com/subtle._.one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subtle._.one" height="30" width="40" /></a>
 </p>
 
