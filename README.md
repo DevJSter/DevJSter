@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="./developer.gif" alt="MasterHead" style="display: block; margin: 0 auto;">
-</p>
+
+![developer1](https://github.com/DevJSter/DevJSter/assets/115056248/d72f7243-7e03-4fe8-9d4e-09ad74c74dab)
+
 <h1 align="center">Hello Ji, Kaise ho saare👋, This is Shubham here</h1>
 <h3 align="center">Frontend developer||Backend Developer||React developer||JS-Nerd</h3>
 
