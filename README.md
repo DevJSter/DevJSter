@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./developer.gif" alt="MasterHead" style="display: block; margin: 0 auto;">
 </p>
-
 <h1 align="center">Hello Ji, Kaise ho saare👋, This is Shubham here</h1>
 <h3 align="center">Frontend developer||Backend Developer||React developer||JS-Nerd</h3>
 
