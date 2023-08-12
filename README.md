@@ -33,5 +33,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjster&show_icons=true&locale=en" alt="devjster" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjster&" alt="devjster" /></p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devjster" alt="devjster" /></a> </p>
