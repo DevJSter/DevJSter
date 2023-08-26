@@ -2,10 +2,10 @@
 
 
 
-<h1 align="center">Hello Ji, Kaise ho saare👋, This is Shubham here</h1>
-<h3 align="center">Frontend developer||Backend Developer||React developer||JS-Nerd</h3>
+<h1 align="center&theme=gotham&hide_border=true&line_height=27">Hello Ji, Kaise ho saare👋, This is Shubham here</h1>
+<h3 align="center&theme=gotham&hide_border=true&line_height=27">Frontend developer||Backend Developer||React developer||JS-Nerd</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devjster&label=Profile%20views&color=0e75b6&style=flat" alt="devjster" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devjster&label=Profile%20views&color=0e75b6&style=flat&theme=gotham&hide_border=true&line_height=27" alt="devjster" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shubham32674954" target="blank"><img src="https://img.shields.io/twitter/follow/shubham32674954?logo=twitter&style=for-the-badge" alt="shubham32674954" /></a> </p>
 
