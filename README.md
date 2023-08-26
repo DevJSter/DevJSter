@@ -39,7 +39,6 @@
 <p align="right">
   <img src='https://github-readme-streak-stats.herokuapp.com/?user=DevJSter&theme=gotham&hide_border=true'></p> 
 </details>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devjster&" alt="devjster" /></p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=devjster" alt="devjster" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=gotham&hide_border=true&line_height=27" alt="devjster" /></a> </p>
 
