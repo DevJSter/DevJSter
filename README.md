@@ -42,3 +42,7 @@
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=gotham&hide_border=true&line_height=27" alt="devjster" /></a> </p>
 
+### 📈 GitHub Activity Graph:
+<!-- [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
+![DevJSter's github activity graph](https://raw.githubusercontent.com/DevJSter/DevJSter/output/github-contribution-grid-snake.svg)
+| .                                   
