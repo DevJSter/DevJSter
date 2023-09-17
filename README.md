@@ -25,7 +25,21 @@
 <a href="https://linkedin.com/in/shubham-tiwari-b686b3270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-tiwari-b686b3270" height="30" width="40" /></a>
 <a href="https://instagram.com/subtle._.one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subtle._.one" height="30" width="40" /></a>
 </p>
+### <p align="center">Technical Skills</p>
 
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,typescript,next,mysql" />
+  </a>
+</p>
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma,git,github,wordpress" />
+  </a>
+</p>
+
+<p align="center"> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/>
 </div>
 ## 📌 Github Stats
 
