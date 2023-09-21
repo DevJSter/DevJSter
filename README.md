@@ -1,6 +1,3 @@
-
-
-
 <p align="center" background-color="black" > <img src=https://github.com/DevJSter/DevJSter/assets/115056248/2112b71c-a62a-4b45-8731-9a22e6f0e843) /> </p>
 
 <h1 align="center">Welcome to my Github!!!</h1>
@@ -60,3 +57,4 @@
 
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=gotham&hide_border=true&line_height=27" alt="devjster" /></a> </p>
+ ![Roneet Yadav's GitHub | Stats](https://stats.quine.sh/Dev-X-Innovate/github?theme=dark)
