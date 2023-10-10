@@ -1,6 +1,3 @@
-
-
-
 <p align="center"><img src="https://github.com/DevJSter/DevJSter/assets/115056248/ed69418e-ba93-4502-b3c1-408b0e0ac278" /> </p>
 
 <h1 align="center">Welcome to my Github!!!</h1>
@@ -16,7 +13,7 @@
 
 - 🌱 I’m currently learning **ReactJS and NodeJS**
 
-- 💬 Ask me about **ReactJS, Machine Learning and C++**
+- 💬 Ask me about **ReactJS, TailWindCSS, Machine Learning and C++**
 
 - 📫 How to reach me **shubht3303@gmail.com**
 
@@ -24,8 +21,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shubham32674954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham32674954" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubham-tiwari-b686b3270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubham-tiwari-b686b3270" height="30" width="40" /></a>
+<a href="https://twitter.com/devtshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DevTShubham" height="30" width="40" /></a>
+  
+<a href="https://linkedin.com/in/devtshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DevTShubham" height="30" width="40" /></a>
+
 <a href="https://instagram.com/subtle._.one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subtle._.one" height="30" width="40" /></a>
 </p>
 
