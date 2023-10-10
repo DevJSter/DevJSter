@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjster&label=Profile%20views&color=0e75b6&style=flat" alt="devjster" /> </p>
 
-<p align="left"> <a href="https://twitter.com/shubham32674954" target="blank"><img src="https://img.shields.io/twitter/follow/shubham32674954?logo=twitter&style=for-the-badge" alt="shubham32674954" /></a> </p>
+<p align="left"> <a href="https://twitter.com/DevTShubham" target="blank"><img src="https://img.shields.io/twitter/follow/DevTShubham?logo=twitter&style=for-the-badge" alt="DevTShubham" /></a> </p>
 
 - 🔭 I’m currently working on [Campus-connect](https://github.com/RizzlingDev-s/Campus-Connect)
 
