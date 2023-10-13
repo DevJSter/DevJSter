@@ -1,10 +1,6 @@
 <p align="center"><img src="https://github.com/DevJSter/DevJSter/assets/115056248/ed69418e-ba93-4502-b3c1-408b0e0ac278" /> </p>
 
-<h1 align="center">Welcome to my Github!!!</h1>
-
-<h1 align="center">Hello Ji, Kaise ho saare👋, This is Shubham here</h1>
-<h3 align="center">Frontend developer||Backend Developer||React developer||JS-Nerd</h3>
-
+<h1 align="center">Hello Ji Shubham here</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devjster&label=Profile%20views&color=0e75b6&style=flat" alt="devjster" /> </p>
 
 <p align="left"> <a href="https://twitter.com/DevTShubham" target="blank"><img src="https://img.shields.io/twitter/follow/DevTShubham?logo=twitter&style=for-the-badge" alt="DevTShubham" /></a> </p>
@@ -44,21 +40,21 @@
 <p align="center"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/>
 </div>
-  
-## 📌Github Stats
 
-<p align="left">  
-  <img src='https://github-readme-stats.vercel.app/api?username=DevJSter&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/></p>
-    
-<p align="center">
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=DevJSter&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=gotham&line_height=27&hide_border=true'/></p>
-  
-<p align="right">
-  <img src='https://github-readme-streak-stats.herokuapp.com/?user=DevJSter&theme=gotham&hide_border=true'></p> 
-</details>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=devjster&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devjster&theme=dark&hide_border=false)<br/></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</p>
 
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=gotham&hide_border=true&line_height=27" alt="devjster" /></a> </p>
 </br></br>
 <p align="right"> <img src= "https://stats.quine.sh/DevJSter/github?theme=dark"> </p>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=devjster&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=devjster&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
