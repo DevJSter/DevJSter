@@ -55,5 +55,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=devjster&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devjster)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devjster)](https://github.com/devjster/github-readme-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
