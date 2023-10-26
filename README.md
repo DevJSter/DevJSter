@@ -40,9 +40,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devjster&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devjster&theme=dark&hide_border=false)<br/></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&langs_count=8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=gotham&hide_border=true&line_height=27" alt="devjster" /></a> </p>
