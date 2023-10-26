@@ -57,3 +57,5 @@
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devjster)](https://github.com/devjster/github-readme-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## My badges
+[![An image of @devjster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devjster)](https://holopin.io/@devjster)
