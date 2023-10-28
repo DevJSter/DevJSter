@@ -66,6 +66,17 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devjster&icon=0&color=0)](https://visitcount.itsvg.in)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=devjster&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=devjster&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devjster)](https://github.com/devjster/github-readme-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
