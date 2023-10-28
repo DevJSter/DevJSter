@@ -54,14 +54,14 @@
 
 *   Shows Github logo instead rank level
 
-![Devjster GitHub stats](https://github-readme-stats.vercel.app/api?username=Devjster@theme=dark\&rank_icon=github)
+![Devjster GitHub stats](https://github-readme-stats.vercel.app/api?username=Devjster&theme=dark\&rank_icon=github)
 
 *   Shows user rank percentile instead of rank level
   
-![DevJSter GitHub stats](https://github-readme-stats.vercel.app/api?username=devjster@theme=dark\&rank_icon=percentile)
+![DevJSter GitHub stats](https://github-readme-stats.vercel.app/api?username=DevJSter&theme=dark\&rank_icon=percentile)
 
 *   Include All Commits
-![DevJSter Stats](https://github-readme-stats.vercel.app/api?username=Devjster@theme=dark\&include_all_commits=true)
+![DevJSter Stats](https://github-readme-stats.vercel.app/api?username=Devjster&theme=dark\&include_all_commits=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=devjster&icon=0&color=0)](https://visitcount.itsvg.in)
