@@ -50,7 +50,7 @@
 <p align="right"> <img src= "https://stats.quine.sh/DevJSter/github?theme=dark"> </p>
 
 ### 🔝 Top Contributed Repo
-![DevJSter stats](https://github-readme-stats.vercel.app/api?username=DevJSter\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![DevJSter stats](https://github-readme-stats.vercel.app/api?username=DevJSter&theme=dark\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
 ---
