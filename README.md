@@ -1,27 +1,35 @@
-<!--  <p align="center"><img src="https://github.com/DevJSter/DevJSter/assets/115056248/ed69418e-ba93-4502-b3c1-408b0e0ac278" /> </p> -->
-<h1 align="center">Hello Ji Shubham here</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devjster&label=Profile%20views&color=0e75b6&style=flat" alt="devjster" /> </p>
-
-<p align="left"> <a href="https://twitter.com/DevTShubham" target="blank"><img src="https://img.shields.io/twitter/follow/DevTShubham?logo=twitter&style=for-the-badge" alt="DevTShubham" /></a> </p>
-
-- 🔭 I’m currently working on [Campus-connect](https://github.com/RizzlingDev-s/Campus-Connect)
-
-- 🌱 I’m currently learning **ReactJS and NodeJS**
-
-- 💬 Ask me about **ReactJS, TailWindCSS, Machine Learning and C++**
-
-- 📫 How to reach me **shubht3303@gmail.com**
-
-- ⚡ Fun fact **I think I can make it work somehow in the given time...**
-- 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/devtshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="DevTShubham" height="30" width="40" /></a>
-  
-<a href="https://linkedin.com/in/devtshubham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DevTShubham" height="30" width="40" /></a>
-
-<a href="https://instagram.com/subtle._.one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subtle._.one" height="30" width="40" /></a>
-</p>
+<div style="background-color: #f7f7f7; padding: 20px;">
+    <h1 style="text-align: center; color: #333;">Hello Ji Shubham here</h1>
+    <div style="display: flex; justify-content: space-between;">
+        <div style="flex: 1;">
+            <img src="https://komarev.com/ghpvc/?username=devjster&label=Profile%20views&color=0e75b6&style=flat"
+                alt="devjster" />
+            <p><a href="https://twitter.com/DevTShubham" target="blank"><img
+                        src="https://img.shields.io/twitter/follow/DevTShubham?logo=twitter&style=for-the-badge"
+                        alt="DevTShubham" /></a></p>
+            <p>- 🔭 I’m currently working on <a href="https://github.com/RizzlingDev-s/Campus-Connect"
+                    style="color: #0366d6; text-decoration: none;">Campus-connect</a></p>
+            <p>- 🌱 I’m currently learning <strong>ReactJS and NodeJS</strong></p>
+            <p>- 💬 Ask me about <strong>ReactJS, TailWindCSS, Machine Learning and C++</strong></p>
+            <p>- 📫 How to reach me <a href="mailto:shubht3303@gmail.com"
+                    style="color: #0366d6; text-decoration: none;">shubht3303@gmail.com</a></p>
+            <p>- ⚡ Fun fact: <em>I think I can make it work somehow in the given time...</em></p>
+        </div>
+        <div style="flex: 1;">
+            <h3>Connect with me:</h3>
+            <p>
+                <a href="https://twitter.com/devtshubham" target="blank"><img
+                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+                        alt="DevTShubham" height="30" width="40" /></a>
+                <a href="https://linkedin.com/in/devtshubham" target="blank"><img
+                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+                        alt="DevTShubham" height="30" width="40" /></a>
+                <a href="https://instagram.com/subtle._.one" target="blank"><img
+                        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+                        alt="subtle._.one" height="30" width="40" /></a>
+            </p>
+        </div>
+    </div>
 <p align="center"> <h2 align="center" > Technical Skills <h2> </p>
 <p align="center">
   <a >
@@ -38,7 +46,7 @@
 </div>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
  ![](https://github-readme-stats.vercel.app/api?username=devjster&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/></p>
 
@@ -47,11 +55,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&langs_count=8&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)
 
 
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=gruvbox&hide_border=true&line_height=37" alt="devjster" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=gruvbox&hide_border=true&line_height=100" alt="devjster" /></a> </p>
 </br></br>
 <p align="right"> <img src= "https://stats.quine.sh/DevJSter/github?theme=dark"> </p>
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![DevJSter stats](https://github-readme-stats.vercel.app/api?username=DevJSter&theme=synthwave\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Devjster GitHub stats](https://github-readme-stats.vercel.app/api?username=Devjster&theme=onedark\&rank_icon=github)
 <!--
