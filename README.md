@@ -40,20 +40,20 @@
 
 # 📊 GitHub Stats:
 
- ![](https://github-readme-stats.vercel.app/api?username=devjster&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/></p>
+ ![](https://github-readme-stats.vercel.app/api?username=devjster&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/></p>
 
- ![Shubham Tiwari](https://github-readme-streak-stats.herokuapp.com/?user=devjster&theme=dark&hide_border=false)<br/></p> 
+ ![Shubham Tiwari](https://github-readme-streak-stats.herokuapp.com/?user=devjster&theme=dracula&hide_border=false)<br/></p> 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</p> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&langs_count=8&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&langs_count=8&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)
 
 
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=gotham&hide_border=true&line_height=27" alt="devjster" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=dracula&hide_border=true&line_height=27" alt="devjster" /></a> </p>
 </br></br>
 <p align="right"> <img src= "https://stats.quine.sh/DevJSter/github?theme=dark"> </p>
 
 ### 🔝 Top Contributed Repo
-![DevJSter stats](https://github-readme-stats.vercel.app/api?username=DevJSter&theme=dark\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Devjster GitHub stats](https://github-readme-stats.vercel.app/api?username=Devjster&theme=dark\&rank_icon=github)
+![DevJSter stats](https://github-readme-stats.vercel.app/api?username=DevJSter&theme=synthwave\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Devjster GitHub stats](https://github-readme-stats.vercel.app/api?username=Devjster&theme=onedark\&rank_icon=github)
 <!--
 *   Shows user rank percentile instead of rank level
   
