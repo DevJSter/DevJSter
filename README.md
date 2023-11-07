@@ -2,7 +2,9 @@
 [![An image of @devjster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devjster)](https://holopin.io/@devjster)
 
 <h1 align:"center">Hello Ji Shubham here</h1>
-<a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter"/></a>
+
+![Profile hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{DevJSter}1212%2Fhit-counter)
+
 <p><a href="https://twitter.com/DevTShubham" target="blank"><img
  src="https://img.shields.io/twitter/follow/DevTShubham?logo=twitter&style=for-the-badge" alt="DevTShubham" /></a></p> 
 <p>- 🔭 I’m currently working on <a href="https://github.com/RizzlingDev-s/Campus-Connect" style="color: #0366d6; text-decoration: none;">Campus-connect</a></p>
@@ -25,29 +27,31 @@
 ## 📊 GitHub Stats:
 <div>
   <div style="display: flex; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api?username=devjster&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="400" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjster&theme=dracula&hide_border=false"  width="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=devjster&theme=react&hide_border=false&include_all_commits=false&count_private=false" width="400" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjster&theme=react&hide_border=false"  width="400" />
   </div>
   <div style="display: flex; justify-content: flex-end;">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=cobalt&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10" width="400" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=react&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10" width="400" />
   </div>
 </div>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=gruvbox&hide_border=true&line_height=100" alt="devjster" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=react"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=react&hide_border=true&line_height=100" alt="devjster" /></a> </p>
 </br></br>
 <p align="right"> <img src= "https://stats.quine.sh/DevJSter/github?theme=dark"> </p>
 
 ## 🔝 Top Contributed Repo
 <div align="left">
-    <img src="https://github-contributor-stats.vercel.app/api?username=DevJSter&limit=10&theme=gruvbox&all_contributions=true">
+    <img src="https://github-contributor-stats.vercel.app/api?username=DevJSter&limit=10&theme=react&all_contributions=true">
 </div>
 
-![DevJSter stats](https://github-readme-stats.vercel.app/api?username=DevJSter&theme=synthwave\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Devjster GitHub stats](https://github-readme-stats.vercel.app/api?username=Devjster&theme=onedark\&rank_icon=github)
+![DevJSter stats](https://github-readme-stats.vercel.app/api?username=DevJSter&theme=react\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Devjster GitHub stats](https://github-readme-stats.vercel.app/api?username=Devjster&theme=react\&rank_icon=github-dark)
 ---
 [![](https://visitcount.itsvg.in/api?id=devjster&icon=0&color=0)](https://visitcount.itsvg.in)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devjster)](https://github.com/devjster/github-readme-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) ![](https://github-readme-stats.vercel.app/api?username=devjster&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/></p> -->
+## Summary card
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevJSter&theme=react)
 ### Plaground
 [Playground Link](https://www.typescriptlang.org/play?#code/JYOwLgpgTgZghgYwgAgAoHtRmQbwFDLIAeAXMiAK4C2ARtANwHICeZltDTAXm9XVI0IB3XhwF4AvnjwwKIBGGDoQyADboA5hiwAKAA5lt4AJS4mCZQGd0qiADp1GnQAMAJDj12iEgDTJ3nsy+-h52XBLOxoxSeAD0sWqalsgARACMAEx+GQBsKXgWIJbYepjgyAC8uMRkmX6syLl+PADsABx+Ii05AMzIEoyORmD6ZWBRQA)
