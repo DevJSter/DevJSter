@@ -39,7 +39,6 @@
 
 
 ## 📊 GitHub Stats:
-
 <div>
   <div style="display: flex; flex-direction: column;">
     <img src="https://github-readme-stats.vercel.app/api?username=devjster&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="400" />
