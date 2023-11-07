@@ -44,9 +44,9 @@
 
  ![Shubham Tiwari](https://github-readme-streak-stats.herokuapp.com/?user=devjster&theme=dracula&hide_border=false)<br/></p> 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</p> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&langs_count=8&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevJSter&theme=cobalt&layout=compact&hide=jupyterNotebook)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&size_weight=0.5&count_weight=0.5)
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=gruvbox&hide_border=true&line_height=100" alt="devjster" /></a> </p>
 </br></br>
 <p align="right"> <img src= "https://stats.quine.sh/DevJSter/github?theme=dark"> </p>
