@@ -43,7 +43,7 @@
  ![](https://github-readme-stats.vercel.app/api?username=devjster&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/></p>
 
  ![Shubham Tiwari](https://github-readme-streak-stats.herokuapp.com/?user=devjster&theme=dracula&hide_border=false)<br/></p> 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</p> -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</p> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=cobalt&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=15)
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=gruvbox&hide_border=true&line_height=100" alt="devjster" /></a> </p>
 </br></br>
