@@ -40,13 +40,16 @@
 
 ## 📊 GitHub Stats:
 
- <div align="left">
+<div>
   <div style="display: flex; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api?username=devjster&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="400" height="400" />
+    <img src="https://github-readme-stats.vercel.app/api?username=devjster&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="400" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjster&theme=dracula&hide_border=false"  width="400" />
   </div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=cobalt&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10" width="400" />
+  <div style="display: flex; justify-content: flex-end;">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=cobalt&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10" width="400" />
+  </div>
 </div>
+
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=gruvbox&hide_border=true&line_height=100" alt="devjster" /></a> </p>
 </br></br>
 <p align="right"> <img src= "https://stats.quine.sh/DevJSter/github?theme=dark"> </p>
