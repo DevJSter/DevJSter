@@ -1,7 +1,10 @@
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
+ <h1 align:"center">Hello Ji Shubham here</h1>
+</div>
+
 ### My HactoberFest'23 badges
 [![An image of @devjster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devjster)](https://holopin.io/@devjster)
-
-<h1 align:"center">Hello Ji Shubham here</h1>
 
 ![Profile hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{DevJSter}1212%2Fhit-counter)
 
@@ -35,7 +38,7 @@
   </div>
 </div>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=react"><img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=react&hide_border=true&line_height=100" alt="devjster" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox"> <img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=gruvbox&hide_border=true&line_height=100" alt="devjster" /> </a> </p>
 </br></br>
 <p align="right"> <img src= "https://stats.quine.sh/DevJSter/github?theme=dark"> </p>
 
@@ -53,5 +56,27 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) ![](https://github-readme-stats.vercel.app/api?username=devjster&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/></p> -->
 ## Summary card
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevJSter&theme=react)
+
+## FEATURED PROJECTS
+
+<p align='center'>
+    <a href='https://github.com/Devjster/Campus-connect'>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DevJSter&repo=Campus-Connect&theme=transparent'  width='350'/>
+    </a>
+    <a href='https://github.com/DevJSter/portfolio'>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DevJSter&repo=portfolio&theme=transparent&hide=html' width='350'/>
+    </a>
+</p>
+
+<p align='center'>
+    <a href='https://github.com/DevJSter/MovieInfoApp'>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DevJSter&repo=MovieInfoApp&theme=transparent&hide=html' width='350'/>
+    </a>
+    <a href='https://github.com/DevJSter/college-connect'>
+        <img src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=DevJSter&repo=college-connect&theme=transparent'  width='350'/>
+    </a>
+</p>
+
+
 ### Plaground
 [Playground Link](https://www.typescriptlang.org/play?#code/JYOwLgpgTgZghgYwgAgAoHtRmQbwFDLIAeAXMiAK4C2ARtANwHICeZltDTAXm9XVI0IB3XhwF4AvnjwwKIBGGDoQyADboA5hiwAKAA5lt4AJS4mCZQGd0qiADp1GnQAMAJDj12iEgDTJ3nsy+-h52XBLOxoxSeAD0sWqalsgARACMAEx+GQBsKXgWIJbYepjgyAC8uMRkmX6syLl+PADsABx+Ii05AMzIEoyORmD6ZWBRQA)
