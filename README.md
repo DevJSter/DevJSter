@@ -1,7 +1,9 @@
 ### My HactoberFest'23 badges
 [![An image of @devjster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devjster)](https://holopin.io/@devjster)
-<div style="background-color: #f7f7f7; padding: 20px;">
-    <h1 style="text-align: center; color: black;">Hello Ji Shubham here</h1>
+
+<h1 align:"center">Hello Ji Shubham here</h1>
+
+<div>
     <div style="display: flex; justify-content: space-between;">
         <div style="flex: 1;">
             <img src="https://komarev.com/ghpvc/?username=devjster&label=Profile%20views&color=0e75b6&style=flat"
