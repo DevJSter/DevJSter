@@ -1,6 +1,6 @@
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com?font=ubuntu&color=16A085&center=true&lines=Front+End+Developer;Enthusiastic+Programmer;Open+Source+Contributor;Code+For+Everyone'/>
- <h1 align:"center">Hello Ji Shubham here</h1>
+ <h1 align:"center">Hello Ji Shubham here </h1>
 </div>
 
 ### My HactoberFest'23 badges
