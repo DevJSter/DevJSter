@@ -10,12 +10,15 @@
 
 <p><a href="https://twitter.com/DevTShubham" target="blank"><img
  src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="DevTShubham" /></a></p> 
+
+<img align="right" alt="web_dev" width="35%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
+</br></br>
 <p>- 🔭 I’m currently working on <a href="https://github.com/RizzlingDev-s/Campus-Connect" style="color: #0366d6; text-decoration: none;">Campus-connect</a></p>
 <p>- 🌱 I’m currently learning <strong>ReactJS and NodeJS</strong></p>
 <p>- 💬 Ask me about <strong>ReactJS, TailWindCSS, Machine Learning and C++</strong></p>
 <p>- 📫 How to reach me <a href="mailto:shubht3303@gmail.com" style="color: #0366d6; text-decoration: none;">shubht3303@gmail.com</a></p>
 <p>- ⚡ Fun fact: <em>I think I can make it work somehow in the given time...</em></p>
-
+</br></br></br>
 <h3>Connect with me:</h3>
 <a href="https://twitter.com/DevTShubham" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="DevTShubham" /></a>
 <a href="https://linkedin.com/in/devtshubham" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="DevTShubham" /></a>
