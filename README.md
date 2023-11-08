@@ -62,7 +62,9 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) ![](https://github-readme-stats.vercel.app/api?username=devjster&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/></p> -->
 ## Summary card
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevJSter&theme=react)
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=devjster&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
 
+![activity-graph](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=devjster)
 ## FEATURED PROJECTS
 
 <p align='center'>
