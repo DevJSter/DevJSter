@@ -3,6 +3,8 @@
  <h1 align:"center">Hello Ji Shubham here </h1>
 </div>
 
+<!-- ![New](https://github.com/DevJSter/DevJSter/assets/115056248/db6789ed-692b-4493-a654-e0cbe9630f4d) -->
+
 ### My HactoberFest'23 badges
 [![An image of @devjster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devjster)](https://holopin.io/@devjster)
 
