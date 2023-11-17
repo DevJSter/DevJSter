@@ -52,7 +52,7 @@
 
 ## 🔝 Top Contributed Repo
 <div align="left">
-    <img src="https://github-contributor-stats.vercel.app/api?username=DevJSter&limit=10&theme=react&all_contributions=true">
+    <img src="https://github-contributor-stats.vercel.app/api?username=DevJSter&limit=5&theme=react&all_yearly_contributions=true">
 </div>
 
 ![DevJSter stats](https://github-readme-stats.vercel.app/api?username=DevJSter&theme=react\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&rank_icon=github)
