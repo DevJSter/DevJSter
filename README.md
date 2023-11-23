@@ -54,14 +54,17 @@
 <div align="left">
     <img src="https://github-contributor-stats.vercel.app/api?username=DevJSter&limit=5&theme=react&all_yearly_contributions=true">
 </div>
-
+<!-- 
 ![DevJSter stats](https://github-readme-stats.vercel.app/api?username=DevJSter&theme=react\&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage\&rank_icon=github)
 <!--![Devjster GitHub stats](https://github-readme-stats.vercel.app/api?username=Devjster&theme=react\&rank_icon=github) -->
 ---
+<!-- 
 [![](https://visitcount.itsvg.in/api?id=devjster&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<!-- 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devjster)](https://github.com/devjster/github-readme-stats)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) ![](https://github-readme-stats.vercel.app/api?username=devjster&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/></p> -->
+
+<!-- 
 ## Summary card
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevJSter&theme=react)
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=devjster&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
