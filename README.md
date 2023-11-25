@@ -48,8 +48,11 @@
 
 <p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gruvbox"> <img src="https://github-profile-trophy.vercel.app/?username=devjster&theme=gruvbox&hide_border=true&line_height=100" alt="devjster" /> </a> </p>
 </br></br>
-<p align="right"> <img src= "https://stats.quine.sh/DevJSter/github?theme=dark"> </p>
+</div>
 
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=devjster&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
+<!-- 
+<p align="right"> <img src= "https://stats.quine.sh/DevJSter/github?theme=dark"> </p>
 ## 🔝 Top Contributed Repo
 <div align="left">
     <img src="https://github-contributor-stats.vercel.app/api?username=DevJSter&limit=5&theme=react&all_yearly_contributions=true">
