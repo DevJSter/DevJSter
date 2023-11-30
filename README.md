@@ -15,7 +15,7 @@
 <p>- 💬 Ask me about <strong>ReactJS, TailWindCSS, Machine Learning and C++</strong></p>
 <p>- 📫 How to reach me <a href="mailto:shubht3303@gmail.com" style="color: #0366d6; text-decoration: none;">shubht3303@gmail.com</a></p>
 <p>- ⚡ Fun fact: <em>I think I can make it work somehow in the given time...</em></p>
-</br>
+
 <h3>Connect with me:</h3>
 <a href="https://twitter.com/DevTShubham" target="blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="DevTShubham" /></a>
 <a href="https://linkedin.com/in/devtshubham" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="DevTShubham" /></a>
