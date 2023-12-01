@@ -33,12 +33,9 @@
 ## 📊 GitHub Stats:
 <div>
   <div style="display: flex; flex-direction: column;">
-    <img src="https://github-readme-stats.vercel.app/api?username=devjster&theme=react&hide_border=false&include_all_commits=false&count_private=false" width="400" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjster&theme=react&hide_border=false"  width="400" />
-  </div>
-  <div style="display: flex; justify-content: flex-end;">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=react&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10" width="400" />
-  </div>
+    <img src="https://github-readme-stats.vercel.app/api?username=devjster&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false" width="350" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjster&theme=flag-india&hide_border=false"  width="380" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=ambient_gradient&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=10" width="350" />
 </div>
 </div>
 
