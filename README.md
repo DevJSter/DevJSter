@@ -10,7 +10,7 @@
 
 ![Profile hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{DevJSter}1212%2Fhit-counter)
 <!-- <img align="right" alt="web_dev" width="40%" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif"> -->
-<p>- 🔭 I’m currently working on <a href="https://github.com/RizzlingDev-s/Campus-Connect" style="color: #0366d6; text-decoration: none;">Campus-connect</a></p>
+<p>- 🔭 I’m currently working on [JSM](https://github.com/DevJSter/JSM) and [DSA](https://github.com/DevJSter/DSA-cpp)
 <p>- 🌱 I’m currently learning <strong>ReactJS and NodeJS</strong></p>
 <p>- 💬 Ask me about <strong>ReactJS, TailWindCSS, Machine Learning and C++</strong></p>
 <p>- 📫 How to reach me <a href="mailto:shubht3303@gmail.com" style="color: #0366d6; text-decoration: none;">shubht3303@gmail.com</a></p>
