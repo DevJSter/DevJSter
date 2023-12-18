@@ -33,9 +33,9 @@
 ## 📊 GitHub Stats:
 <div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=devjster&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false" height="400"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=ambient_gradient&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=7"  width="920" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjster&theme=flag-india&hide_border=false"  width="920" />
+    <img src="https://github-readme-stats.vercel.app/api?username=devjster&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false" width="900"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=ambient_gradient&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=7"  width="900" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devjster&theme=flag-india&hide_border=false"  width="900" />
 </div>
 </div>
 
