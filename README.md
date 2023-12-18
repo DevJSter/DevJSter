@@ -39,11 +39,7 @@
 </div>
 </div>
 
-![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=devjster&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
-![Supabase](https://supabase.com/launch-week/tickets/DevJSter?lw=x&platinum=true)
-
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevJSter&theme=react)
-![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=devjster&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=devjster&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true
 <!-- 
 <p align="right"> <img src= "https://stats.quine.sh/DevJSter/github?theme=dark"> </p>
 ## 🔝 Top Contributed Repo
