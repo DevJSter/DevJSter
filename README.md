@@ -35,6 +35,7 @@
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=devjster&theme=catppuccin_latte&hide_border=false&include_all_commits=false&count_private=false" width="600px"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=ambient_gradient&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6"  width="600px" />
+   <img src="https://github-readme-stats.vercel.app/api?username=devjster&theme=rose&show_icons=true" width="600px" />
 </div>
 </div>
 
