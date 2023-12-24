@@ -35,6 +35,7 @@
   <div>
    <img src="https://github-readme-stats.vercel.app/api?username=devjster&theme=rose&show_icons=true" width="600px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=ambient_gradient&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6"  width="600px" />
+   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Devjster&theme=whatsapp-light&hide_border=true&border_radius=5.4&date_format=j%2Fn%5B%2FY%5D&card_width=600&fire=EB0000&sideNums=132344&sideLabels=13181E&currStreakLabel=29867AAF&background=45%2C5F4746%2C292780&dates=1E160BAD&currStreakNum=895B2FB2" alt="GitHub Streak" /></a>
 </div>
 </div>
 
