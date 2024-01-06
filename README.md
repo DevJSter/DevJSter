@@ -39,6 +39,9 @@
 </div>
 
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=devjster&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!-- 
 <p align="right"> <img src= "https://stats.quine.sh/DevJSter/github?theme=dark"> </p>
@@ -85,5 +88,7 @@
 
 ### Plaground
 [Playground Link](https://www.typescriptlang.org/play?#code/JYOwLgpgTgZghgYwgAgAoHtRmQbwFDLIAeAXMiAK4C2ARtANwHICeZltDTAXm9XVI0IB3XhwF4AvnjwwKIBGGDoQyADboA5hiwAKAA5lt4AJS4mCZQGd0qiADp1GnQAMAJDj12iEgDTJ3nsy+-h52XBLOxoxSeAD0sWqalsgARACMAEx+GQBsKXgWIJbYepjgyAC8uMRkmX6syLl+PADsABx+Ii05AMzIEoyORmD6ZWBRQA)
+
+
 
 
