@@ -35,6 +35,7 @@
   <div>
    <img src="https://github-readme-stats.vercel.app/api?username=devjster&theme=rose&show_icons=true" height= "190px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjster&theme=ambient_gradient&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=6" height= "190px"  />
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=devjster&theme=ocean-gradient&hide_border=true" alt="GitHub Streak" /></a>
 </div>
 </div>
 
