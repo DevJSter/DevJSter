@@ -44,6 +44,12 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
+###
+
+<img src="https://raw.githubusercontent.com/devjster/devjster/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- 
 <p align="right"> <img src= "https://stats.quine.sh/DevJSter/github?theme=dark"> </p>
 ## 🔝 Top Contributed Repo
@@ -89,7 +95,5 @@
 
 ### Plaground
 [Playground Link](https://www.typescriptlang.org/play?#code/JYOwLgpgTgZghgYwgAgAoHtRmQbwFDLIAeAXMiAK4C2ARtANwHICeZltDTAXm9XVI0IB3XhwF4AvnjwwKIBGGDoQyADboA5hiwAKAA5lt4AJS4mCZQGd0qiADp1GnQAMAJDj12iEgDTJ3nsy+-h52XBLOxoxSeAD0sWqalsgARACMAEx+GQBsKXgWIJbYepjgyAC8uMRkmX6syLl+PADsABx+Ii05AMzIEoyORmD6ZWBRQA)
-
-
 
 
