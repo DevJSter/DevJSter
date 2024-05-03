@@ -42,7 +42,7 @@
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
-<a href="https://github.com/DevJSter/devjster/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/DevJSter/devjster/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/DevJSter/devjster/github-user-contribution.svg" style="max-width:100%;"></a>
+<a href="https://github.com/DevJSter/DevJSter/blob/main/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/DevJSter/DevJSter/blob/main/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/DevJSter/DevJSter/blob/main/github-user-contribution.svg" style="max-width:100%;"></a>
 
 
 
