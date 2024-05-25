@@ -47,6 +47,24 @@
 
 
 <!-- 
+
+
+## Description
+I made changes in the activity section in the maintainers guide as told in the #270 
+
+Feature: change screenshot in "Activity" subsection #270
+
+
+## Related Tickets & Documents
+Fixes #270 
+
+
+## Mobile & Desktop Screenshots/Recordings
+
+![image](https://github.com/open-sauced/docs/assets/115056248/a5f856e6-d57d-44a1-bb31-b31851866e51)
+
+
+
 <p align="right"> <img src= "https://stats.quine.sh/DevJSter/github?theme=dark"> </p>
 ## 🔝 Top Contributed Repo
 <div align="left">
