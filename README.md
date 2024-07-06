@@ -1,6 +1,4 @@
-<h4 align="center">My Hacktoberfest'23 Contributions</h4>
-
-[![An image of @devjster's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devjster)](https://holopin.io/@devjster)
+<img src="https://pixel-profile.vercel.app/api/github-stats?username=devjster&theme=road_trip&pixelate_avatar=false"/>
 
 <p align="center">
   <a href="https://simplefolio-opal.vercel.app/" target="_blank">
@@ -94,3 +92,5 @@ I'm a developer with the interest of building projects,currently working with ML
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a> -->
 </p>
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"/>
