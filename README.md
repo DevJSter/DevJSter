@@ -30,10 +30,10 @@ I'm a developer with the interest of building projects,currently working with ML
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevJSter&label=Profile%20views&color=0e75b6&style=flat" alt="DevJSter" /> </p>
 
 
- <!-- <div>
+ <div>
     <img src="https://github-readme-stats-drab-gamma-66.vercel.app/api?username=DevJSter&show_icons=true&locale=en&theme=rose_pine&hide_border=true" alt="DevJSter" style="margin-bottom: 20px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevJSter&theme=dark-smoky&hide_border=true" alt="DevJSter" />
-  </div> -->
+  </div>
 
 <img  src="https://streak-stats.demolab.com?user=DevJSter&theme=aura&hide_border=true&card_width=550"/>
 <img  src="https://github-readme-stats.vercel.app/api?username=DevJSter&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
