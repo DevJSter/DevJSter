@@ -3,7 +3,7 @@ name: GitHub Profile Update
 on:
   push:
     branches:
-      - main
+      - output
   schedule: 
     - cron: "0 8,20 * * *"
   workflow_dispatch:
