@@ -12,7 +12,7 @@
   <a href="https://twitter.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
- <a href="https://docs.google.com/document/d/1WFByhZjGXPsqCBzZ266GG7FL-7NZR12_4HuOSYm11b0/edit?usp=sharing" target="_blank">
+ <a href="https://drive.google.com/file/d/1WFQOvslITeAr3ncte4PvQilPom8N5c1Y/view?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
