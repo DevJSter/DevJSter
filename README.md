@@ -30,6 +30,7 @@ I'm a developer with the interest of building projects,currently working with ML
 
 <img  src="https://streak-stats.demolab.com?user=DevJSter&theme=aura&hide_border=true&card_width=550"/>
 <img  src="https://github-readme-stats.vercel.app/api?username=DevJSter&theme=aura&include_all_commits=true&card_width=550&hide_border=true&rank_icon=github"/></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjster&theme=aura&card_width=550&hide_border=true&show_icons=true&locale=en&layout=compact" alt="devjster" /></p>
 <!--<img width="495" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NebulaTris&hide_progress=true&langs_count=10&theme=aura&hide_border=true"/>->
 <!--<img width="400" src="https://api.githubtrends.io/user/svg/NebulaTris/langs?time_range=one_year&theme=dark"/>&ensp; <img width="400" src="https://api.githubtrends.io/user/svg/NebulaTris/repos?time_range=one_year&theme=dark"/>-->
 
