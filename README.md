@@ -13,7 +13,7 @@
  <a href="https://drive.google.com/file/d/1WFQOvslITeAr3ncte4PvQilPom8N5c1Y/view?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <p> I'm a web3 developer with the interest of building projects,currently working with Foundry, SOlidity and Javascript 
+  <p align="center"> I'm a web3 developer with the interest of building projects,currently working with Foundry, SOlidity and Javascript 
 </p>
 </p>
 
