@@ -1,5 +1,5 @@
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=devjster&theme=road_trip&pixelate_avatar=false"/>
-
+<!-- <img src="https://pixel-profile.vercel.app/api/github-stats?username=devjster&theme=road_trip&pixelate_avatar=false"/>
+-->
 <p align="center">
   <a href="https://simplefolio-opal.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
@@ -13,9 +13,9 @@
  <a href="https://drive.google.com/file/d/1WFQOvslITeAr3ncte4PvQilPom8N5c1Y/view?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
+  <p> I'm a web3 developer with the interest of building projects,currently working with Foundry, SOlidity and Javascript 
 </p>
-
-I'm a web3 developer with the interest of building projects,currently working with Foundry, SOlidity and Javascript 
+</p>
 
 
 <h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'> </h1>
