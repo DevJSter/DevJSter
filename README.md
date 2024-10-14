@@ -15,7 +15,7 @@
   </a>
 </p>
 
-I'm a developer with the interest of building projects,currently working with ML, Fullstack and building some DaO Apps 
+I'm a web3 developer with the interest of building projects,currently working with Foundry, SOlidity and Javascript 
 
 
 <h1> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='22px'> </h1>
