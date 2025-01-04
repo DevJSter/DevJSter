@@ -1,16 +1,16 @@
 <!-- <img src="https://pixel-profile.vercel.app/api/github-stats?username=devjster&theme=road_trip&pixelate_avatar=false"/>
 -->
 <p align="center">
-  <a href="https://simplefolio-opal.vercel.app/" target="_blank">
+  <a href="https://0xShubham.vercel.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/devtshubham/" target="_blank">
+  <a href="https://www.linkedin.com/in/0xShubhamm/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://twitter.com/shubhamtwtss" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
- <a href="https://drive.google.com/file/d/1WFQOvslITeAr3ncte4PvQilPom8N5c1Y/view?usp=drive_link" target="_blank">
+ <a href="https://0xShubham.vercel.app" target="_blank">
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <p align="center"> I'm a web3 developer with the interest of building projects,currently working with Foundry, SOlidity and Javascript 
