@@ -96,5 +96,7 @@
   </a> -->
 </p>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Devjster)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
 
