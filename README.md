@@ -1,4 +1,4 @@
-<h2 align="center">Gm Gm, I'm Shubham Tiwari 👋</h2>
+<h2 align="center">Gm Gm, I'm Shubham 👋</h2>
 <p align="center">Web3 Developer | Solidity | Foundry | TypeScript</p>
 
 <p align="center">
