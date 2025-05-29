@@ -38,7 +38,7 @@
 </p>
 
 ---
-
+--->
 ### 🐍 Contributions
 
 <picture>
@@ -47,7 +47,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DevJSter/DevJSter/output/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg">
 </picture>
 
---->
+---
 
 <p align="center">
   <i>"Code. Ship. Repeat."</i>
