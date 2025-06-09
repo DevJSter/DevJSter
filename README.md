@@ -7,7 +7,7 @@
   <a href="https://twitter.com/shubhamtwtss" target="_blank">Twitter</a>
 </p>
 
-<!-- 
+
 ---
 
 ### 📊 GitHub Stats
@@ -38,7 +38,7 @@
 </p>
 
 ---
---->
+
 ### 🐍 Contributions
 
 <picture>
