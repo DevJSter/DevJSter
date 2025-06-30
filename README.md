@@ -1,5 +1,5 @@
 <h2 align="center">Gm Gm, I'm Shubham 👋</h2>
-<p align="center">Web3 Developer | Solidity | Foundry | TypeScript</p>
+<p align="center">Web3 Developer | Solidity | TypeScript</p>
 
 <p align="center">
   <a href="https://0xShubham.tech" target="_blank">🌐 Portfolio</a> •
@@ -8,7 +8,7 @@
 </p>
 
 
----
+<!--
 
 ### 📊 GitHub Stats
 
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
 </p>
 
----
+--->
 
 ### 🐍 Contributions
 
