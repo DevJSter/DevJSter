@@ -1,6 +1,6 @@
 
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Devjster&theme=transparent&hide_border=true&langs_count=5" width="100%" /></p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Devjster&theme=transparent&hide_border=true&langs_count=6" width="100%" /></p>
 
 <!--
 <h2 align="center">Gm Gm, I'm Shubham 👋</h2>
