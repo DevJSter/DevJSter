@@ -1,3 +1,5 @@
+
+<!--
 <h2 align="center">Gm Gm, I'm Shubham 👋</h2>
 <p align="center">Web3 Developer | Solidity | TypeScript</p>
 
@@ -8,24 +10,25 @@
 </p>
 
 
+--->
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Devjster&theme=transparent&hide_border=true&langs_count=5" width="100%" /></p>
+
+---
 <!--
 
 ### 📊 GitHub Stats
 
 <p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJSter&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=DevJSter&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevJSter&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJSter&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Devjster&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Foundry-black?style=flat"/>
@@ -37,7 +40,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
 </p>
 
---->
+
 
 ### 🐍 Contributions
 
