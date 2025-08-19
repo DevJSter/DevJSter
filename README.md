@@ -1,4 +1,7 @@
 
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Devjster&theme=transparent&hide_border=true&langs_count=5" width="100%" /></p>
+
 <!--
 <h2 align="center">Gm Gm, I'm Shubham 👋</h2>
 <p align="center">Web3 Developer | Solidity | TypeScript</p>
@@ -9,17 +12,8 @@
   <a href="https://twitter.com/shubhamtwtss" target="_blank">Twitter</a>
 </p>
 
-
---->
-
-
-
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Devjster&theme=transparent&hide_border=true&langs_count=5" width="100%" /></p>
-
----
 <!--
-
+---
 ### 📊 GitHub Stats
 
 <p align="center">
